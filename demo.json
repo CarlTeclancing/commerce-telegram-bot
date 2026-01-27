@@ -46,20 +46,26 @@
       ]
     }
   },
-  "products": {
-    "Electronics": [
+  "Canabis (8)": {
+    "Vapes(4)": [
       {
         "id": "p1",
-        "name": "USB-C Headphones",
-        "description": "Noise-cancelling USB-C headphones.",
+        "name": "Heeter juice 1ml Vape",
+        "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
         "price": 29.99
       },
       {
         "id": "p2",
-        "name": "Portable Charger 10,000mAh",
+        "name": "Packman x Ace ultra",
         "description": "Fast charging power bank.",
         "price": 19.99
-      }
+      },
+      {
+        "id": "p3",
+        "name": "Packman x Ace ultra",
+        "description": "Fast charging power bank.",
+        "price": 19.99
+      },
     ],
     "Books": [
       {
@@ -81,12 +87,12 @@
       "items": [
         {
           "id": "p2",
-          "name": "Portable Charger 10,000mAh",
+          "name": "Listing",
           "price": 19.99
         },
         {
           "id": "p1",
-          "name": "USB-C Headphones",
+          "name": "💊10% off Dr Seus LSD",
           "price": 29.99
         },
         {
