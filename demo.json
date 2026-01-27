@@ -25,13 +25,40 @@
           "name": "Portable Charger 10,000mAh",
           "price": 19.99
         }
-      ]
+      ],
+      "coupon": "SAVE10"
     },
     "Kinara": {
       "username": "Pharmaceuticalpeptide",
-      "telegram_id": 8576318245,
+      "telegram_id": 7812380143,
       "country": "USA",
-      "cart": [],
+      "cart": [
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        },
+        {
+          "id": "p2",
+          "name": "Portable Charger 10,000mAh",
+          "price": 19.99
+        },
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        },
+        {
+          "id": "p2",
+          "name": "Portable Charger 10,000mAh",
+          "price": 19.99
+        },
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        }
+      ],
       "orders": [
         "1769260253-97649c"
       ]
@@ -44,9 +71,23 @@
       "orders": [
         "1769264132-0d5346"
       ]
+    },
+    "Kgfjghbj": {
+      "username": "",
+      "telegram_id": 8546550460,
+      "country": "USA",
+      "cart": [],
+      "orders": []
+    },
+    "Hhjjb": {
+      "username": "maxidiamonds",
+      "telegram_id": 8330938962,
+      "country": null,
+      "cart": [],
+      "orders": []
     }
   },
-  "Canabis (8)": {
+  "products": {
     "Vapes(4)": [
       {
         "id": "p1",
@@ -56,16 +97,34 @@
       },
       {
         "id": "p2",
-        "name": "Packman x Ace ultra",
-        "description": "Fast charging power bank.",
-        "price": 19.99
+        "name": "Canabis healer juice 1ml Vape",
+        "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
+        "price": 29.99
       },
       {
         "id": "p3",
-        "name": "Packman x Ace ultra",
-        "description": "Fast charging power bank.",
-        "price": 19.99
+        "name": "Blue berry healer juice 1ml Vape",
+        "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
+        "price": 29.99
       },
+      {
+        "id": "p4",
+        "name": "Indica healer juice 1ml Vape",
+        "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
+        "price": 29.99
+      },
+      {
+        "id": "p5",
+        "name": "Xara juice 1ml Vape",
+        "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
+        "price": 29.99
+      },
+      {
+        "id": "p6",
+        "name": "Tokila healer juice 1ml Vape",
+        "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
+        "price": 29.99
+      }
     ],
     "Books": [
       {
@@ -87,12 +146,12 @@
       "items": [
         {
           "id": "p2",
-          "name": "Listing",
+          "name": "Portable Charger 10,000mAh",
           "price": 19.99
         },
         {
           "id": "p1",
-          "name": "💊10% off Dr Seus LSD",
+          "name": "USB-C Headphones",
           "price": 29.99
         },
         {
