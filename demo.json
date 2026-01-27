@@ -1,0 +1,191 @@
+{
+  "users": {
+    "Yuvcarl": {
+      "username": "yuvcarl",
+      "telegram_id": 1142459197,
+      "country": "UK",
+      "cart": [
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        },
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        }
+      ],
+      "orders": [
+        "1769179273-793eca"
+      ],
+      "wishlist": [
+        {
+          "id": "p2",
+          "name": "Portable Charger 10,000mAh",
+          "price": 19.99
+        }
+      ]
+    },
+    "Kinara": {
+      "username": "Pharmaceuticalpeptide",
+      "telegram_id": 8576318245,
+      "country": "USA",
+      "cart": [],
+      "orders": [
+        "1769260253-97649c"
+      ]
+    },
+    "Hello": {
+      "username": "Brendaling1",
+      "telegram_id": 6017341965,
+      "country": "USA",
+      "cart": [],
+      "orders": [
+        "1769264132-0d5346"
+      ]
+    }
+  },
+  "products": {
+    "Electronics": [
+      {
+        "id": "p1",
+        "name": "USB-C Headphones",
+        "description": "Noise-cancelling USB-C headphones.",
+        "price": 29.99
+      },
+      {
+        "id": "p2",
+        "name": "Portable Charger 10,000mAh",
+        "description": "Fast charging power bank.",
+        "price": 19.99
+      }
+    ],
+    "Books": [
+      {
+        "id": "p3",
+        "name": "Learn Python",
+        "description": "Beginner-friendly Python guide.",
+        "price": 9.99
+      }
+    ]
+  },
+  "payment": {
+    "btc_address": "1BoatSLRHtKNngkdXEeobR76b53LETtpyT",
+    "usdt_address": "TetherDummyAddress1234567890"
+  },
+  "orders": [
+    {
+      "order_id": "1769179273-793eca",
+      "user": "Yuvcarl",
+      "items": [
+        {
+          "id": "p2",
+          "name": "Portable Charger 10,000mAh",
+          "price": 19.99
+        },
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        },
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        },
+        {
+          "id": "p2",
+          "name": "Portable Charger 10,000mAh",
+          "price": 19.99
+        },
+        {
+          "id": "p2",
+          "name": "Portable Charger 10,000mAh",
+          "price": 19.99
+        }
+      ],
+      "address_encrypted": "",
+      "notes": "",
+      "payment_type": "BTC",
+      "status": "pending",
+      "timestamp": 1769179273,
+      "subtotal": 119.94999999999999,
+      "discount": 0.0,
+      "total": 119.95,
+      "coupon": ""
+    },
+    {
+      "order_id": "1769260253-97649c",
+      "user": "Kinara",
+      "items": [
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        },
+        {
+          "id": "p2",
+          "name": "Portable Charger 10,000mAh",
+          "price": 19.99
+        }
+      ],
+      "address_encrypted": "",
+      "notes": "",
+      "payment_type": "USDT",
+      "status": "pending",
+      "timestamp": 1769260253,
+      "subtotal": 49.98,
+      "discount": 0.0,
+      "total": 49.98,
+      "coupon": ""
+    },
+    {
+      "order_id": "1769264132-0d5346",
+      "user": "Hello",
+      "items": [
+        {
+          "id": "p1",
+          "name": "USB-C Headphones",
+          "price": 29.99
+        },
+        {
+          "id": "p2",
+          "name": "Portable Charger 10,000mAh",
+          "price": 19.99
+        },
+        {
+          "id": "p3",
+          "name": "Learn Python",
+          "price": 9.99
+        }
+      ],
+      "address_encrypted": "",
+      "notes": "",
+      "payment_type": "BTC",
+      "status": "pending",
+      "timestamp": 1769264132,
+      "subtotal": 59.97,
+      "discount": 0.0,
+      "total": 59.97,
+      "coupon": ""
+    }
+  ],
+  "pgp_config": {
+    "public_key": "",
+    "key_generated": true,
+    "key_id": "key not created"
+  },
+  "ratings": [
+    {
+      "user": "Yuvcarl",
+      "value": 5,
+      "ts": 1768930066
+    },
+    {
+      "user": "Yuvcarl",
+      "value": 5,
+      "ts": 1769006306
+    }
+  ]
+}
