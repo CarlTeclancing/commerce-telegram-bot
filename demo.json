@@ -134,6 +134,14 @@
         "price": 9.99
       }
     ]
+    "Books": [
+      {
+        "id": "p3",
+        "name": "Learn Python",
+        "description": "Beginner-friendly Python guide.",
+        "price": 9.99
+      }
+    ]
   },
   "payment": {
     "btc_address": "1BoatSLRHtKNngkdXEeobR76b53LETtpyT",
