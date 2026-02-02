@@ -91,25 +91,25 @@
     "Vapes(4)": [
       {
         "id": "p1",
-        "name": "Heeter juice 1ml Vape",
+        "name": "🍃 Jeeter Juice 1ml Vape 🍃",
         "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
         "price": 29.99
       },
       {
         "id": "p2",
-        "name": "Canabis healer juice 1ml Vape",
+        "name": "🍃 Packman x Ace Ultra 1ml Vape 🍃",
         "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
-        "price": 29.99
+        "price": 27.00
       },
       {
         "id": "p3",
-        "name": "Blue berry healer juice 1ml Vape",
+        "name": "🍃 Muha Meds 1ml Vape 🍃",
         "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
-        "price": 29.99
+        "price": 25.00
       },
       {
         "id": "p4",
-        "name": "Indica healer juice 1ml Vape",
+        "name": "🍃 Wholemelt X Packman 1ml Vape 🍃",
         "description": "Our vapes are made in house using D9 THC, CBD, CBT, CBC, natural tyrpenes and genuine jeeter. No funny business strains: ( Galactic Glue, Pink Lemonade)",
         "price": 29.99
       },
@@ -132,14 +132,102 @@
         "name": "Learn Python",
         "description": "Beginner-friendly Python guide.",
         "price": 9.99
+      },
+      {
+        "id": "p1",
+        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "price": 9.99
+      },
+      {
+        "id": "p2",
+        "name": "☀️ CaliFari™️ Chem Dawg - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, by the well known CaliFari brand Pungent yet deep smoke, this is a rich hash thats a very enjoyable smoke.",
+        "price": 7.14
+      },
+      {
+        "id": "p3",
+        "name": "B&W Triple filter Hash - 4 strains",
+        "description": "A more premium hash, triple filtered from Morocco.",
+        "price": 8
+      },
+      {
+        "id": "p3",
+        "name": "Doja™️ Blonde hash - 4 strains 🌿",
+        "description": "Nice and soft blonde hash. Every day smoke, great value. 4 Strains available.",
+        "price": 7.14
+      }
+    ]
+    "Dissociatives": [
+      {
+        "id": "p3",
+        "name": "Dissociatives>>>Ketamine S-ISOMER Ketamin (Long Shard) UK-UK",
+        "description": "Hello all, I have acquired some excellent ketamine, perfect for pairing with deep exploration with my vast range of psychedelics.I have personally tested this myself and it is very strong and trippy, as S-Isomer should be.I have had great experiences on this ket, and I hope to share that with you too",
+        "price": 7.14
+      }
+    ]
+    "Ecstasy Pills": [
+      {
+        "id": "p1",
+        "name": "💊 Orange Hermes 300mg XTC 👜",
+        "description": "Quality Dutch pingers made with the highest quality NL MDMA. Dosed at 300mg, please be careful and start with half. Stay safe and stay hydrated!.",
+        "price": 5.40
       }
     ]
     "Books": [
       {
         "id": "p3",
-        "name": "Learn Python",
-        "description": "Beginner-friendly Python guide.",
-        "price": 9.99
+        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "price": 14
+      }
+    ]
+    "Books": [
+      {
+        "id": "p3",
+        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "price": 14
+      }
+    ]
+    "Books": [
+      {
+        "id": "p3",
+        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "price": 14
+      }
+    ]
+    "Books": [
+      {
+        "id": "p3",
+        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "price": 14
+      }
+    ]
+    "Books": [
+      {
+        "id": "p3",
+        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "price": 14
+      }
+    ]
+    "Books": [
+      {
+        "id": "p3",
+        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "price": 14
+      }
+    ]
+    "Books": [
+      {
+        "id": "p3",
+        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
+        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "price": 7.14
       }
     ]
   },
