@@ -214,7 +214,7 @@
     ]
     "Psychedelic": [
       {
-        "id": "p3",
+        "id": "p2",
         "name": "🐸 NASA 2C-B Pills 25mg - UK 🐸",
         "description": "25mg NASA 2C-B. NASA 2C-B pills dosed 25mg - accurate dosing. Do not take 2-3 like you would normal 2C-B pills these are STRONG!.",
         "price": 14
@@ -228,26 +228,71 @@
     ]
     "Mushrooms": [
       {
-        "id": "p3",
+        "id": "p1",
         "name": "🍄 🍭 Shroom Jellies 🍭 🍄",
         "description": "Each piece contains about 3-3.5g equivalent of dried magic mushrooms. 5x pcs ordered = 5 x 3.5g trips. These geltabs are the perfect way to experience ALL the wonderful effects of mushrooms without the negative side effects like nausea or awful taste!",
         "price": 5
       }
-    ]
-    "Books": [
+      {
+        "id": "p2",
+        "name": "🍄 🍭 Shroom Jellies 🍭 🍄",
+        "description": "Penis Envy mushrooms. May the force be with you.These are whole mushrooms so they will be shipped whole.",
+        "price": 8
+      }
       {
         "id": "p3",
-        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
-        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "name": "💧Liquid Shroom Shots - 5 Flavours! 🍇🍊🍓",
+        "description": "Each shot contains the equivalent to 4.5g of dried mushrooms in liquid Psilocybin. That is two medium trips, or one VERY strong trip. Excellent value. ✅! Liquid psilocybin is the perfect way to experience ALL the wonderful effects of mushr",
         "price": 14
       }
+      {
+        "id": "p4",
+        "name": "Psilocybin Mushroom Powder! (4-HO-MET) 99%",
+        "description": "Psilocybin powder is back!!. Metocin (4-HO-MET) is a novel psychedelic substance of the tryptamine class. It is a structural analog of Psilocybin, the active ingredient in Psilocybin mushrooms (magic mushrooms). 25mg is roughly equal to 3-3.5g of dried mushrooms. Even with our smallest quantity option, you get a trip of ~3.5g dried mushrooms for £4.5. 3.5g shrooms is around £30 usually... almost 90% savings!",
+        "price": 156
+      }
     ]
-    "Books": [
+    "LSD": [
+      {
+        "id": "p1",
+        "name": "Dr Seuss 200ug Tabs",
+        "description": "MULTIPLES OF 5 ONLY. Dr Seuss 200ug Tabs from the famous Seuss Team. Dosed accurately, and laid using LSD-25 crystal, with a purity of 99.1%, and no iso-LSD present. ",
+        "price": 4
+      }
+        "id": "p2",
+        "name": "Dr Seuss 100ug Tabs",
+        "description": "Dr Seuss 100ug Tabs from the famous Seuss Team. Dosed accurately, and laid using LSD-25 crystal, with a purity of 99.1%, and no iso-LSD present. ",
+        "price": 4
+      }
+        "id": "p3",
+        "name": "Gammagoblin 100ug LSD (Gamma Geometry)",
+        "description": "THESE ARE THE LAST GG TABS IN EXISTENCE. Official GammaGoblin 100ug LSD Gamma Geometry tabs, freshly laid with 110ug Aurum XTAL. GammaGoblins LSD reputation needs no explanation. Best Tabs. ",
+        "price": 4
+      }
+        "id": "p4",
+        "name": "GammaGoblins 200ug LSD (Goblin Bomb)",
+        "description": "Official GammaGoblin 200ug Aztec tabs. These are the 200ug Goblin Bombs Laid with ~220ug of Aurum XTAL. Very clean LSD. and no iso-LSD present. ",
+        "price": 5
+      }
+    ]
+    "DMT": [
+      {
+        "id": "p1",
+        "name": "👀 ThirdEye 99% DMT Vape Pen 0.5mL (CCell)👀",
+        "description": "These disposable pens have 0.4g of 99% pure, locally made N,N-DMT in them per 0.5mL vape. These can be used for either breaking through, or a quick fun trip!. RRP: £50+ CCELLs are the best quality disposable vapes on the market. Its recommended like with all vapes to keep the vape upright when not using.",
+        "price": 35
+      }
+      {
+        "id": "p2",
+        "name": "👀 ThirdEye 99% DMT Vape Pen 1mL (CCell) 👀",
+        "description": "There is a separate listing for 0.5ml vapes. These disposable pens have 0.8g of 99% pure, locally made N,N-DMT in them per 1mL vape. RRP: £85+, These can be used for either breaking through, or a quick fun trip! CCELLs are the best quality disposable vapes on the market. Its recommended like with all vapes to keep the vape upright when not using.",
+        "price": 57
+      }
       {
         "id": "p3",
-        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
-        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
-        "price": 14
+        "name": "99% Pure NN-DMT",
+        "description": "This N,N-DMT has been locally made and purified to allow for the most enlightening trip possible. N,N-Dimethyltryptamine is a chemical substance that occurs in many plants and animals and which is both a derivative and a structural analog of tryptamine. It can be consumed as a psychedelic drug and has historically been prepared by various cultures for ritual purposes as an entheogen. DMT is the main active ingredient in ayahuasca.",
+        "price": 80
       }
     ]
     "Books": [
