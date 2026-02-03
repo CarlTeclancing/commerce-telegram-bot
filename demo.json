@@ -212,20 +212,26 @@
         "price": 16
       }
     ]
-    "Books": [
+    "Psychedelic": [
       {
         "id": "p3",
-        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
-        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
+        "name": "🐸 NASA 2C-B Pills 25mg - UK 🐸",
+        "description": "25mg NASA 2C-B. NASA 2C-B pills dosed 25mg - accurate dosing. Do not take 2-3 like you would normal 2C-B pills these are STRONG!.",
         "price": 14
       }
-    ]
-    "Books": [
       {
         "id": "p3",
-        "name": "🍋 Super Lemon Haze - Squidgy black 🌿",
-        "description": "Really lovely squidgy black here, a citrussy fruity twist. More of a lighter squidgy, this is a more zesty hash thats a very enjoyable smoke.",
-        "price": 14
+        "name": "2C-B Powder 0.25-50 Grams 2CB",
+        "description": "If youre looking for VERY high quality 2C-B shipped UK to UK within 24 hours then look no further!. ust a few milligrams of this amazing psychedelic will send you to a blissful new world. One gram should give you around 50 amazing trips..",
+        "price": 16
+      }
+    ]
+    "Mushrooms": [
+      {
+        "id": "p3",
+        "name": "🍄 🍭 Shroom Jellies 🍭 🍄",
+        "description": "Each piece contains about 3-3.5g equivalent of dried magic mushrooms. 5x pcs ordered = 5 x 3.5g trips. These geltabs are the perfect way to experience ALL the wonderful effects of mushrooms without the negative side effects like nausea or awful taste!",
+        "price": 5
       }
     ]
     "Books": [
