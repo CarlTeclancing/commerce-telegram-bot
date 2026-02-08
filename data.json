@@ -1,354 +1,163 @@
 {
-    "bot": {
-        "payment": {
-            "btc": "bc1q0q5j52rj50gwd2f7nlqqp89kgqdjqt0rcewr0m",
-            "usdt_trc20": "TXTmvHkxL986msuvJU4KoEJsheiVSScC9J"
-        },
-        "placeholders": {
-            "product_image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg"
-        }
-    },
-    "countries": [
-        "Austria",
-        "Germany",
-        "France",
-        "Switzerland",
-        "Spain",
-        "United Kingdom",
-        "Italy",
-        "Netherlands",
-        "Portugal"
-    ],
-    "faq": [
-        "❓ How do I place an order?\nTo order, click 'Products', choose a category, select a product, and add it to your cart.",
-        "❓ What payment methods are accepted?\nWe accept BTC and USDT. Payment instructions will appear at checkout.",
-        "❓ Is shipping discreet?\nYes, all orders are packaged discreetly with no branding or smell.",
-        "❓ How long does delivery take?\nUsually between 1–3 working days, depending on your country.",
-        "❓ Where do you ship to?\nWe currently ship across most of Europe including the UK, Germany, France, Spain, and more.",
-        "❓ Is there a minimum order amount?\nNo minimum order required. You can even buy just 1g.",
-        "❓ Can I track my order?\nYes, once shipped you’ll receive a tracking number via Telegram or email.",
-        "❓ Are your products lab tested?\nYes, our flowers and vapes are high quality and go through a testing process.",
-        "❓ What if I don’t receive my order?\nContact support. We offer resends for eligible claims.",
-        "❓ Can I return or exchange products?\nDue to the nature of the products, we do not accept returns. If there’s an issue, contact support."
-    ],
-    "how_it_works": [
-        "🛒 Browse products: Navigate through categories and subcategories.",
-        "📦 Select products: Pick a product and choose a quantity or enter a custom one.",
-        "🧺 Add to cart: The product will be saved in your cart.",
-        "💰 Choose payment: Select BTC or USDT and get payment details.",
-        "🚚 Delivery: After payment is confirmed, your package is shipped discreetly.",
-        "⏱ Delivery time: Usually 1–3 working days depending on your location."
-    ],
-    "reviews": {
-        "mint_choc": [
-            { "stars": 5, "text": "Amazing flavor and great effects!" },
-            { "stars": 4, "text": "Really enjoyed this, very relaxing." }
-        ],
-        "wiz_tree": [
-            { "stars": 5, "text": "Perfect for daytime use, very uplifting." }
-        ]
-    },
-    "categories": {
-        "t10b": {
-            "name": "The 10/10 Boys",
-            "subcategories": {
-                "g1": {
-                    "name": "The 10/10 Boys - 1g",
-                    "products": {
-                        "mint_choc": {
-                            "name": "Mint Chocolate Chip - 1g",
-                            "price": "50€/unit",
-                            "description": "Mint Chocolate Chip is a potent hybrid strain that blends the best of relaxation and euphoria...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "35.00€",
-                                "20": "40.00€",
-                                "5": "45.00€",
-                                "1": "50.00€"
-                            }
-                        },
-                        "wiz_tree": {
-                            "name": "Wizard Tree - Sativa - 1g",
-                            "price": "50€/unit",
-                            "description": "Wizard Tree is a premium Sativa strain known for its vibrant, crystal-coated buds...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "35.00€",
-                                "20": "40.00€",
-                                "5": "45.00€",
-                                "1": "50.00€"
-                            }
-                        },
-                        "gold_pine": {
-                            "name": "Golden Pineapple - Sativa - 1g",
-                            "price": "50€/unit",
-                            "description": "Golden Pineapple is a vibrant sativa strain known for its energizing effects...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "35.00€",
-                                "20": "40.00€",
-                                "5": "45.00€",
-                                "1": "50.00€"
-                            }
-                        },
-                        "snoop_og": {
-                            "name": "Snoop Dogg OG - Indica - 1g",
-                            "price": "50€/unit",
-                            "description": "Snoop Dogg OG is a heavy-hitting indica strain named after the legendary rapper...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "35.00€",
-                                "20": "40.00€",
-                                "5": "45.00€",
-                                "1": "50.00€"
-                            }
-                        },
-                        "water_gel": {
-                            "name": "Watermelon Gelato - Indica - 1g",
-                            "price": "50€/unit",
-                            "description": "Watermelon Gelato is a flavorful indica strain known for its sweet, fruity aroma...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "35.00€",
-                                "20": "40.00€",
-                                "5": "45.00€",
-                                "1": "50.00€"
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "t10b_siuk2g": {
-            "name": "1010 Boys x SIUK - 2g",
-            "subcategories": {
-                "default": {
-                    "name": "All Strains - 2g",
-                    "products": {
-                        "double_bubble": {
-                            "name": "Double Bubblegum - Hybrid - 2g",
-                            "price": "60€/unit",
-                            "description": "Double Bubblegum is a hybrid strain known for its sweet, candy-like aroma...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "60.00€"
-                            }
-                        },
-                        "purple_panties": {
-                            "name": "Purple Panties - Indica - 2g",
-                            "price": "60€/unit",
-                            "description": "Purple Panties is a potent indica strain that soothes the body and calms the mind...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "60.00€"
-                            }
-                        },
-                        "galactic_gas": {
-                            "name": "Galactic Gas - Indica - 2g",
-                            "price": "60€/unit",
-                            "description": "Galactic Gas delivers a cosmic indica high with deep relaxation...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "60.00€"
-                            }
-                        },
-                        "lime_sherbert": {
-                            "name": "Lime Sherbert - Hybrid - 2g",
-                            "price": "60€/unit",
-                            "description": "Lime Sherbert offers a citrusy twist on hybrid relaxation...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "60.00€"
-                            }
-                        },
-                        "caribbean_crush": {
-                            "name": "Caribbean Crush - Sativa - 2g",
-                            "price": "60€/unit",
-                            "description": "Caribbean Crush is a vibrant sativa with tropical notes and uplifting effects...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "60.00€"
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "hidden_hills": {
-            "name": "Hidden Hills Collection - 2g",
-            "subcategories": {
-                "hh_2g": {
-                    "name": "Hidden Hills Vapes - 2g",
-                    "products": {
-                        "dosi_rocky": {
-                            "name": "Dosi Rocky Runtz - Indica - 2g",
-                            "price": "70€/unit",
-                            "description": "Dosi Rocky Runtz delivers a deeply relaxing indica buzz...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "70.00€"
-                            }
-                        },
-                        "kosmic_kiwi": {
-                            "name": "Kosmic Kiwi - Hybrid - 2g",
-                            "price": "70€/unit",
-                            "description": "Kosmic Kiwi is a hybrid vape with 2000mg of potent blend...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "70.00€"
-                            }
-                        },
-                        "straw_sherb": {
-                            "name": "Strawberry Sherbet - Hybrid - 2g",
-                            "price": "70€/unit",
-                            "description": "Strawberry Sherbet delivers sweet creamy hits with balanced hybrid effects...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "70.00€"
-                            }
-                        },
-                        "face_punch": {
-                            "name": "Tropical Face Punch - Sativa - 2g",
-                            "price": "70€/unit",
-                            "description": "Tropical Face Punch hits with energetic tropical flavor...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "70.00€"
-                            }
-                        },
-                        "apple_sour": {
-                            "name": "Glazed Apple Sour - Sativa - 2g",
-                            "price": "70€/unit",
-                            "description": "Glazed Apple Sour is a sativa blend with sweet and sour green apple notes...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": {
-                                "50": "45.00€",
-                                "20": "50.00€",
-                                "5": "55.00€",
-                                "1": "70.00€"
-                            }
-                        }
-                    }
-                }
-            }
-        },
+  "payment": {
+    "btc_address": "bc1q0q5j52rj50gwd2f7nlqqp89kgqdjqt0rcewr0m",
+    "usdt_address": "TXTmvHkxL986msuvJU4KoEJsheiVSScC9J"
+  },
 
-        "t10b2g": {
-            "name": "The 10/10 Boys - 2g Collection",
-            "subcategories": {
-                "sativa": {
-                    "name": "Sativa - 2g",
-                    "products": {
-                        "love_affair": {
-                            "name": "Love Affair - Sativa - 2g",
-                            "price": "60€/unit",
-                            "description": "Watermelon Gelato is a flavorful indica strain...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        },
-                        "peach_cresc": {
-                            "name": "Peach Crescendo - Sativa - 2g",
-                            "price": "60€/unit",
-                            "description": "Peach Crescendo is a vibrant sativa strain that bursts with flavor...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        },
-                        "trop_burst": {
-                            "name": "Tropical Burst - Sativa - 2g",
-                            "price": "60€/unit",
-                            "description": "Tropical Burst is a zesty sativa strain packed with exotic fruit flavors...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        },
-                        "blue_lob": {
-                            "name": "Blue Lobstar - Sativa - 2g",
-                            "price": "60€/unit",
-                            "description": "Blue Lobstar combines sweet blueberry notes with citrus...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        },
-                        "crunch_berry": {
-                            "name": "Crunch Berries - Sativa - 2g",
-                            "price": "60€/unit",
-                            "description": "Berry-rich and uplifting.",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        }
-                    }
-                },
-                "indica": {
-                    "name": "Indica - 2g",
-                    "products": {
-                        "cadi_rain": {
-                            "name": "Cadillac Rainbow - Indica - 2g",
-                            "price": "60€/unit",
-                            "description": "Cadillac Rainbow is celebrated for its deeply relaxing effects...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        }
-                    }
-                },
-                "hybrid": {
-                    "name": "Hybrid - 2g",
-                    "products": {
-                        "cherry_pie": {
-                            "name": "Cherry Pie OG - Hybrid - 2g",
-                            "price": "60€/unit",
-                            "description": "Cherry Pie OG is known for its sweet and tart cherry aroma...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        },
-                        "candy_rain": {
-                            "name": "Candy Rain - Hybrid - 2g",
-                            "price": "60€/unit",
-                            "description": "Candy Rain offers a gentle balance of uplifting clarity and calm...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        },
-                        "apples_ban": {
-                            "name": "Apples & Banana's - Hybrid - 2g",
-                            "price": "60€/unit",
-                            "description": "Apples & Banana's blends sweet fruity notes...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        },
-                        "blue_cake": {
-                            "name": "Blueberry Cupcake - Hybrid - 2g",
-                            "price": "60€/unit",
-                            "description": "Blueberry Cupcake combines sweet blueberry flavors...",
-                            "image": "https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg",
-                            "quantities": { "1": "60.00€" }
-                        }
-                    }
-                }
-            }
-        }
-    }
+  "pgp_config": {
+    "key_generated": false,
+    "public_key": "",
+    "key_id": ""
+  },
+
+  "users": {},
+  "orders": [],
+  "ratings": [],
+
+  "products": {
+    "The 10/10 Boys - 1g": [
+      {
+        "id": "mint_choc_1g",
+        "name": "Mint Chocolate Chip - 1g",
+        "price": 50.0,
+        "description": "Mint Chocolate Chip is a potent hybrid strain that blends relaxation with euphoria.",
+        "quantities": { "1": 50.0, "5": 45.0, "20": 40.0, "50": 35.0 }
+      },
+      {
+        "id": "wiz_tree_1g",
+        "name": "Wizard Tree - Sativa - 1g",
+        "price": 50.0,
+        "description": "Wizard Tree is a premium sativa known for uplifting and creative effects.",
+        "quantities": { "1": 50.0, "5": 45.0, "20": 40.0, "50": 35.0 }
+      },
+      {
+        "id": "gold_pine_1g",
+        "name": "Golden Pineapple - Sativa - 1g",
+        "price": 50.0,
+        "description": "Golden Pineapple delivers energizing tropical sativa effects.",
+        "quantities": { "1": 50.0, "5": 45.0, "20": 40.0, "50": 35.0 }
+      },
+      {
+        "id": "snoop_og_1g",
+        "name": "Snoop Dogg OG - Indica - 1g",
+        "price": 50.0,
+        "description": "Heavy indica with deep body relaxation and earthy flavors.",
+        "quantities": { "1": 50.0, "5": 45.0, "20": 40.0, "50": 35.0 }
+      },
+      {
+        "id": "watermelon_gelato_1g",
+        "name": "Watermelon Gelato - Indica - 1g",
+        "price": 50.0,
+        "description": "Sweet fruity indica with calming nighttime effects.",
+        "quantities": { "1": 50.0, "5": 45.0, "20": 40.0, "50": 35.0 }
+      }
+    ],
+
+    "1010 Boys x SIUK - 2g": [
+      {
+        "id": "double_bubble_2g",
+        "name": "Double Bubblegum - Hybrid - 2g",
+        "price": 60.0,
+        "description": "Sweet bubblegum hybrid with balanced effects.",
+        "quantities": { "1": 60.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      },
+      {
+        "id": "purple_panties_2g",
+        "name": "Purple Panties - Indica - 2g",
+        "price": 60.0,
+        "description": "Relaxing indica that calms both body and mind.",
+        "quantities": { "1": 60.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      },
+      {
+        "id": "galactic_gas_2g",
+        "name": "Galactic Gas - Indica - 2g",
+        "price": 60.0,
+        "description": "Powerful indica with heavy gas aroma.",
+        "quantities": { "1": 60.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      },
+      {
+        "id": "lime_sherbert_2g",
+        "name": "Lime Sherbert - Hybrid - 2g",
+        "price": 60.0,
+        "description": "Citrus-forward hybrid with smooth effects.",
+        "quantities": { "1": 60.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      },
+      {
+        "id": "caribbean_crush_2g",
+        "name": "Caribbean Crush - Sativa - 2g",
+        "price": 60.0,
+        "description": "Uplifting tropical sativa with energetic buzz.",
+        "quantities": { "1": 60.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      }
+    ],
+
+    "Hidden Hills - 2g Vapes": [
+      {
+        "id": "dosi_rocky_2g",
+        "name": "Dosi Rocky Runtz - Indica - 2g",
+        "price": 70.0,
+        "description": "Deeply relaxing indica vape.",
+        "quantities": { "1": 70.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      },
+      {
+        "id": "kosmic_kiwi_2g",
+        "name": "Kosmic Kiwi - Hybrid - 2g",
+        "price": 70.0,
+        "description": "Balanced hybrid vape with fruity flavor.",
+        "quantities": { "1": 70.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      },
+      {
+        "id": "strawberry_sherbet_2g",
+        "name": "Strawberry Sherbet - Hybrid - 2g",
+        "price": 70.0,
+        "description": "Sweet creamy hybrid vape.",
+        "quantities": { "1": 70.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      },
+      {
+        "id": "tropical_face_punch_2g",
+        "name": "Tropical Face Punch - Sativa - 2g",
+        "price": 70.0,
+        "description": "Energetic tropical sativa vape.",
+        "quantities": { "1": 70.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      },
+      {
+        "id": "glazed_apple_sour_2g",
+        "name": "Glazed Apple Sour - Sativa - 2g",
+        "price": 70.0,
+        "description": "Sweet-and-sour green apple sativa.",
+        "quantities": { "1": 70.0, "5": 55.0, "20": 50.0, "50": 45.0 }
+      }
+    ],
+
+    "The 10/10 Boys - 2g Flower": [
+      {
+        "id": "love_affair_2g",
+        "name": "Love Affair - Sativa - 2g",
+        "price": 60.0,
+        "description": "Euphoric and creative sativa.",
+        "quantities": { "1": 60.0 }
+      },
+      {
+        "id": "blue_lobster_2g",
+        "name": "Blue Lobster - Sativa - 2g",
+        "price": 60.0,
+        "description": "Sweet blueberry citrus sativa.",
+        "quantities": { "1": 60.0 }
+      },
+      {
+        "id": "cadillac_rainbow_2g",
+        "name": "Cadillac Rainbow - Indica - 2g",
+        "price": 60.0,
+        "description": "Deep body relaxation indica.",
+        "quantities": { "1": 60.0 }
+      },
+      {
+        "id": "cherry_pie_og_2g",
+        "name": "Cherry Pie OG - Hybrid - 2g",
+        "price": 60.0,
+        "description": "Sweet cherry hybrid classic.",
+        "quantities": { "1": 60.0 }
+      }
+    ]
+  }
 }
