@@ -313,8 +313,9 @@
     ]
   },
   "payment": {
-    "btc_address": "1BoatSLRHtKNngkdXEeobR76b53LETtpyT",
-    "usdt_address": "TetherDummyAddress1234567890"
+    "btc_address": "bc1q5pmsrk858fw8vk38a4ydkjw8ta9qu6fagc7j5q",
+    "usdt_address": "TRCxBHg5mGhGRNiyYkvGTT5N8rCVtqNgwT",
+    "Litecoin": "ltc1qd3k4w8r0qp7sqrlhfp5lnm5s5lfls5ml60rmtk"
   },
   "orders": [
     {
